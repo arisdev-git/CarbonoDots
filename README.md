@@ -1,2 +1,2 @@
 # CarbonoDots
-Dotfiles for Niri WM with IBM Carbon Black Color Scheme [WIP]
+Dotfiles for Niri WM and Hyprland [WIP]. Based on IBM Carbon Black Color Scheme [WIP]
