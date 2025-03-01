@@ -4,7 +4,7 @@
     "offset-x": "50%",
     "margn-bottom": 0,
 	"modules-left": ["custom/launcher","cpu","memory","disk"],
-	"modules-center": ["niri/workspaces"],
+	"modules-center": ["hyprland/workspaces"],
 	"modules-right": ["network","pulseaudio", "battery","clock","custom/power"],
 	
 
@@ -23,7 +23,7 @@
             ]
 		}
 	},
-    "niri/workspaces": {
+    "hyprland/workspaces": {
 		"disable-scroll": true,
         "on-click": "activate",
         "all-outputs": true,
